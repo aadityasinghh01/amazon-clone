@@ -1,2 +1,2 @@
 # amazon-clone
-A responsive Amazon clone built with HTML, CSS, and JavaScript, with a working cart and search.
+Responsive Amazon clone built with HTML, CSS and JavaScript, with a working cart and links to amazon.com
